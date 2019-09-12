@@ -23,8 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         tv = findViewById(R.id.text1);
 
-        //maybe next time
-        //button2.setOnClickListener(new ButtonListener());
+        //button2.setOnClickListener(new ButtonListener()); maybe next time
 
     }
 
